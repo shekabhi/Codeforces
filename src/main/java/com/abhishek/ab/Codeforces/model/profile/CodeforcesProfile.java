@@ -1,4 +1,4 @@
-package com.abhishek.ab.Codeforces.model;
+package com.abhishek.ab.Codeforces.model.profile;
 
 import java.util.HashMap;
 import java.util.List;
@@ -15,7 +15,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
         "status",
         "result"
 })
-public class UpcomingContestInfo {
+public class CodeforcesProfile {
 
     @JsonProperty("status")
     private String status;

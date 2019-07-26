@@ -1,9 +1,8 @@
 package com.abhishek.ab.Codeforces.DaoUpComingContest.codeforces;
 
-import com.abhishek.ab.Codeforces.model.Result;
-import com.abhishek.ab.Codeforces.model.UpcomingContestInfo;
-import com.abhishek.ab.Codeforces.model.UpcomingSecuenceContest;
-import com.abhishek.ab.Codeforces.model.Upcomingfilterdata;
+import com.abhishek.ab.Codeforces.model.upcomingContest.UpcomingContestInfo;
+import com.abhishek.ab.Codeforces.model.upcomingContest.UpcomingSecuenceContest;
+import com.abhishek.ab.Codeforces.model.upcomingContest.Upcomingfilterdata;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 

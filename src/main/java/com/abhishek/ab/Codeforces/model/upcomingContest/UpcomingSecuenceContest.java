@@ -1,4 +1,6 @@
-package com.abhishek.ab.Codeforces.model;
+package com.abhishek.ab.Codeforces.model.upcomingContest;
+
+import com.abhishek.ab.Codeforces.model.upcomingContest.Upcomingfilterdata;
 
 import java.util.List;
 

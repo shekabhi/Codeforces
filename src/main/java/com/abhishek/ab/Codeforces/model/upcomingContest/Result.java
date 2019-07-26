@@ -1,4 +1,4 @@
-package com.abhishek.ab.Codeforces.model;
+package com.abhishek.ab.Codeforces.model.upcomingContest;
 
 import java.util.HashMap;
 import java.util.Map;

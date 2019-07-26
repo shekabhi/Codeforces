@@ -1,4 +1,4 @@
-package com.abhishek.ab.Codeforces.model;
+package com.abhishek.ab.Codeforces.model.upcomingContest;
 
 
 public class Upcomingfilterdata {
