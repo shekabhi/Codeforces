@@ -32,7 +32,7 @@
        </div>
 
       <div style=" margin-top: 50px ; text-align : center ;" class="container border border-secondary rounded ">
-             <table class="table table-striped">
+             <table style="text-align: center" class="table table-striped">
 
                <tbody>
                       <tr>

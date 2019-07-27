@@ -32,7 +32,7 @@ public class MianController {
     public String profile(@RequestParam("id")  String id  , ModelMap modelMap){
 
 
-        System.out.println(daoCodeforcesProfile.userCodeforcesprofile(id));
+        //System.out.println(daoCodeforcesProfile.userCodeforcesprofile(id));
 
         modelMap.put("profiles" , daoCodeforcesProfile.userCodeforcesprofile(id)) ;
         return "profile" ;

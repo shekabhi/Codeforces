@@ -33,7 +33,7 @@
 
       <div style=" margin-top: 50px ; text-align : center ;" class="container border border-secondary rounded ">
              <h2 style="color: gold ;margin-top: 20px ;">Upcoming Contest</h2>
-             <table class="table table-striped">
+             <table style="text-align: center" class="table table-striped">
                <thead>
                  <tr>
                      <th>Id</th>

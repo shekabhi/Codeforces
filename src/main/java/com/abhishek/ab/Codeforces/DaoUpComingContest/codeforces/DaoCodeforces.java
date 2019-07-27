@@ -42,7 +42,7 @@ public class DaoCodeforces {
                 SimpleDateFormat sdf = new java.text.SimpleDateFormat("dd-MM-yyyy HH:mm:ss z");
                 sdf.setTimeZone(java.util.TimeZone.getTimeZone("UTC"));
                 String formattedDate = sdf.format(date);
-                System.out.println(formattedDate);
+               // System.out.println(formattedDate);
 
                 upcomingfilterdata1.setDate(formattedDate);
 
